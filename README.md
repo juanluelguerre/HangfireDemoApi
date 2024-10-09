@@ -1,6 +1,6 @@
 # Hangfire Demo API
 
-This is a demo project to show how to use Hangfire in a .NET 8 Web API project.
+This is a demo project to show how to use Hangfire in a .NET 8 Web API project and how unit tests work using Autofixture, NSubstitue, FluentAssertion and much more.
 
 ## Prerequisites
 
