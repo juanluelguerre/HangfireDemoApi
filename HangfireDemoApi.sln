@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangfireDemoApi", "HangfireDemoApi\HangfireDemoApi.csproj", "{A5A6E3B6-0668-4541-8DDB-4183485206CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireDemoApi.UnitTests", "HangfireDemoApi.UnitTests\HangfireDemoApi.UnitTests.csproj", "{21ED2D66-25FB-41FE-8C22-3503D2C8EE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A6E3B6-0668-4541-8DDB-4183485206CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A6E3B6-0668-4541-8DDB-4183485206CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A6E3B6-0668-4541-8DDB-4183485206CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A6E3B6-0668-4541-8DDB-4183485206CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ED2D66-25FB-41FE-8C22-3503D2C8EE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ED2D66-25FB-41FE-8C22-3503D2C8EE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ED2D66-25FB-41FE-8C22-3503D2C8EE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ED2D66-25FB-41FE-8C22-3503D2C8EE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5C36E0C-0889-4381-8BEB-F04A351220B8}
+	EndGlobalSection
+EndGlobal
